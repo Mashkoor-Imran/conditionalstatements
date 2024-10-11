@@ -1,0 +1,14 @@
+C:\Mashkoor Codes\conditional statements\conditional statements\bin\Debug\net8.0\conditional statements.exe
+C:\Mashkoor Codes\conditional statements\conditional statements\bin\Debug\net8.0\conditional statements.deps.json
+C:\Mashkoor Codes\conditional statements\conditional statements\bin\Debug\net8.0\conditional statements.runtimeconfig.json
+C:\Mashkoor Codes\conditional statements\conditional statements\bin\Debug\net8.0\conditional statements.dll
+C:\Mashkoor Codes\conditional statements\conditional statements\bin\Debug\net8.0\conditional statements.pdb
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\conditional statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\conditional statements.AssemblyInfoInputs.cache
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\conditional statements.AssemblyInfo.cs
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\conditional statements.csproj.CoreCompileInputs.cache
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\conditional statements.dll
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\refint\conditional statements.dll
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\conditional statements.pdb
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\conditional statements.genruntimeconfig.cache
+C:\Mashkoor Codes\conditional statements\conditional statements\obj\Debug\net8.0\ref\conditional statements.dll
